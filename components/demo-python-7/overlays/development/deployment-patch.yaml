@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/sjmrhtap/demo-python-7:4185ce285bb2c74920594e3cb2eb2a2b913f717e@sha256:5f6018ca8f1222dd606cfeb6e823a74b1436a3908b7afbc952abdcaedbac1ad3
+        - image: quay.io/sjmrhtap/demo-python-7:3775e43868b83d354991b9fabea34767a1c099cc@sha256:00d146c0fd68ef0f7266088bcb5a637cb9e49c7ae7965c8066db2130a3f4da39
           name: container-image
